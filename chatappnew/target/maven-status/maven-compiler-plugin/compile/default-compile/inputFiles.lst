@@ -1,0 +1,12 @@
+/home/user/workspace/chatappnew/src/data/ChatMessage.java
+/home/user/workspace/chatappnew/src/data/UserSignoffMessage.java
+/home/user/workspace/chatappnew/src/data/BasicMessage.java
+/home/user/workspace/chatappnew/src/data/ChatDecoder.java
+/home/user/workspace/chatappnew/src/data/UserListUpdateMessage.java
+/home/user/workspace/chatappnew/src/data/ChatUpdateMessage.java
+/home/user/workspace/chatappnew/src/data/ChatServer.java
+/home/user/workspace/chatappnew/src/data/ChatEncoder.java
+/home/user/workspace/chatappnew/src/data/Transcript.java
+/home/user/workspace/chatappnew/src/data/NewUserMessage.java
+/home/user/workspace/chatappnew/src/data/ChatServerConfigurator.java
+/home/user/workspace/chatappnew/src/data/StructuredMessage.java

@@ -1,0 +1,12 @@
+data/Transcript.class
+data/ChatDecoder.class
+data/ChatServer.class
+data/ChatMessage.class
+data/ChatUpdateMessage.class
+data/NewUserMessage.class
+data/StructuredMessage.class
+data/UserSignoffMessage.class
+data/BasicMessage.class
+data/UserListUpdateMessage.class
+data/ChatServerConfigurator.class
+data/ChatEncoder.class
